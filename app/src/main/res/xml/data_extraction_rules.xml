@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <cloud-backup>
+        <exclude domain="sharedpref" path="auth_preferences.xml" />
+        <exclude domain="database" path="booksy_database" />
+    </cloud-backup>
+</data-extraction-rules>
