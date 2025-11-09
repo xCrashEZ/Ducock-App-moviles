@@ -28,9 +28,9 @@ Booksy es una app para leer y descargar libros digitales de autores independient
 
 ## 2. Requisitos y ejecución
 
-* **Stack:** *(lo que esté configurado en el proyecto)*
-* **Instalación:** *(pasos del repo)*
-* **Ejecución:** *(comandos/perfiles del proyecto)*
+* **Stack:** *Android Studio, Kotlin, Gradle, Jetpack (Compose, Navigation), Room, DataStore, Retrofit/OkHttp, Coil.*
+* **Instalación:** *Clona el repo y ábrelo en Android Studio. Sincroniza Gradle. Configura la Base URL del backend (por variable local/BuildConfig).*
+* **Ejecución:** *Emulador o dispositivo físico (API 28+).*
 
 ---
 
